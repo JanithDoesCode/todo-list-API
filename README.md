@@ -21,9 +21,10 @@ This is a simple RESTful API built with Node.js and Express.js for managing a To
 1. **Clone the repository**:
    ```
    git clone https://github.com/JanithDoesCode/todo-list-API
+   
 2. **Navigate to the project directory**
    cd todo-list-api
-
+   
 3.**Install dependencies**
    npm install
 
