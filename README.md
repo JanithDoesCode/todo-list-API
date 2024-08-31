@@ -32,7 +32,7 @@ This is a simple RESTful API built with Node.js and Express.js for managing a To
 
 Project Structure
 
-   /todo-list-api
+/todo-list-api
 │
 ├── /store/
 │   └── todos.json     # JSON file storing todo items
@@ -40,3 +40,4 @@ Project Structure
 ├── app.js             # Main application file
 ├── package.json       # Project dependencies and scripts
 └── README.md          # Project documentation
+
